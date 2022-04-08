@@ -1,7 +1,7 @@
 const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
   // devServer: {
-  //   proxy: 'https://www.metaweather.com'
+  //   proxy: 'https://my-json-server.typicode.com'
   // },
   transpileDependencies: true,
 });

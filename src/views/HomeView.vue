@@ -1,18 +1,34 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <ClientsTable :clients="clients" />
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
+import ClientsTable from "@/components/ClientsTable.vue";
+import TableService from "@/services/TableService.js";
 
 export default {
   name: "HomeView",
   components: {
-    HelloWorld,
+    ClientsTable,
+  },
+  data() {
+    return {
+      clients: null,
+    };
+  },
+  created() {
+    TableService.getClients()
+      .then((response) => {
+        this.clients = response.data;
+        console.log(this.clients);
+      })
+      .catch((error) => {
+        console.log(error);
+      });
   },
 };
 </script>

@@ -1,0 +1,244 @@
+{
+    "clients": [
+        {
+            "id": 1,
+            "first_name": "Cheston",
+            "last_name": "Gauson",
+            "email": "cgauson0@mit.edu",
+            "gender": "Male",
+            "phrase": "Balanced radical firmware"
+        },
+        {
+            "id": 2,
+            "first_name": "Marven",
+            "last_name": "Brixey",
+            "email": "mbrixey1@skyrock.com",
+            "gender": "Male",
+            "phrase": "Function-based upward-trending groupware"
+        },
+        {
+            "id": 3,
+            "first_name": "Bobina",
+            "last_name": "Larmour",
+            "email": "blarmour2@tripadvisor.com",
+            "gender": "Female",
+            "phrase": "Horizontal 24/7 budgetary management"
+        },
+        {
+            "id": 4,
+            "first_name": "Vite",
+            "last_name": "Harnes",
+            "email": "vharnes3@fda.gov",
+            "gender": "Male",
+            "phrase": "Multi-tiered leading edge definition"
+        },
+        {
+            "id": 5,
+            "first_name": "Dalia",
+            "last_name": "Sprigg",
+            "email": "dsprigg4@arstechnica.com",
+            "gender": "Female",
+            "phrase": "Sharable clear-thinking migration"
+        },
+        {
+            "id": 6,
+            "first_name": "Padriac",
+            "last_name": "Scholig",
+            "email": "pscholig5@techcrunch.com",
+            "gender": "Male",
+            "phrase": "User-centric 24 hour website"
+        },
+        {
+            "id": 7,
+            "first_name": "Alexandros",
+            "last_name": "Slany",
+            "email": "aslany6@artisteer.com",
+            "gender": "Male",
+            "phrase": "Centralized discrete parallelism"
+        },
+        {
+            "id": 8,
+            "first_name": "Harriett",
+            "last_name": "Nares",
+            "email": "hnares7@t-online.de",
+            "gender": "Female",
+            "phrase": "Down-sized even-keeled frame"
+        },
+        {
+            "id": 9,
+            "first_name": "Ann-marie",
+            "last_name": "Andrich",
+            "email": "aandrich8@apache.org",
+            "gender": "Female",
+            "phrase": "Mandatory dynamic parallelism"
+        },
+        {
+            "id": 10,
+            "first_name": "Sterling",
+            "last_name": "Fruchter",
+            "email": "sfruchter9@ehow.com",
+            "gender": "Male",
+            "phrase": "Pre-emptive homogeneous functionalities"
+        },
+        {
+            "id": 11,
+            "first_name": "Trever",
+            "last_name": "Kulas",
+            "email": "tkulasa@baidu.com",
+            "gender": "Male",
+            "phrase": "Centralized discrete help-desk"
+        },
+        {
+            "id": 12,
+            "first_name": "Kim",
+            "last_name": "Goulstone",
+            "email": "kgoulstoneb@reference.com",
+            "gender": "Male",
+            "phrase": "Reduced didactic local area network"
+        },
+        {
+            "id": 13,
+            "first_name": "Frayda",
+            "last_name": "Milan",
+            "email": "fmilanc@aboutads.info",
+            "gender": "Female",
+            "phrase": "Multi-channelled exuding concept"
+        },
+        {
+            "id": 14,
+            "first_name": "Mikel",
+            "last_name": "Partleton",
+            "email": "mpartletond@bloglines.com",
+            "gender": "Male",
+            "phrase": "Multi-lateral object-oriented product"
+        },
+        {
+            "id": 15,
+            "first_name": "Grazia",
+            "last_name": "Edy",
+            "email": "gedye@merriam-webster.com",
+            "gender": "Female",
+            "phrase": "Stand-alone bottom-line alliance"
+        },
+        {
+            "id": 16,
+            "first_name": "Jeralee",
+            "last_name": "People",
+            "email": "jpeoplef@stumbleupon.com",
+            "gender": "Female",
+            "phrase": "Pre-emptive full-range utilisation"
+        },
+        {
+            "id": 17,
+            "first_name": "Amalie",
+            "last_name": "Antoniou",
+            "email": "aantonioug@delicious.com",
+            "gender": "Female",
+            "phrase": "Streamlined regional adapter"
+        },
+        {
+            "id": 18,
+            "first_name": "Howey",
+            "last_name": "Busby",
+            "email": "hbusbyh@prlog.org",
+            "gender": "Male",
+            "phrase": "Multi-channelled empowering intranet"
+        },
+        {
+            "id": 19,
+            "first_name": "Mollie",
+            "last_name": "Frandsen",
+            "email": "mfrandseni@amazonaws.com",
+            "gender": "Female",
+            "phrase": "Compatible even-keeled access"
+        },
+        {
+            "id": 20,
+            "first_name": "Ninetta",
+            "last_name": "Cadd",
+            "email": "ncaddj@zdnet.com",
+            "gender": "Female",
+            "phrase": "Function-based client-driven knowledge user"
+        },
+        {
+            "id": 21,
+            "first_name": "Silvie",
+            "last_name": "Brickhill",
+            "email": "sbrickhillk@twitter.com",
+            "gender": "Female",
+            "phrase": "Fundamental explicit knowledge base"
+        },
+        {
+            "id": 22,
+            "first_name": "Flossie",
+            "last_name": "Drewet",
+            "email": "fdrewetl@ca.gov",
+            "gender": "Female",
+            "phrase": "Object-based disintermediate model"
+        },
+        {
+            "id": 23,
+            "first_name": "Joya",
+            "last_name": "Folker",
+            "email": "jfolkerm@csmonitor.com",
+            "gender": "Female",
+            "phrase": "Phased asynchronous groupware"
+        },
+        {
+            "id": 24,
+            "first_name": "Row",
+            "last_name": "Dearl",
+            "email": "rdearln@hugedomains.com",
+            "gender": "Female",
+            "phrase": "Ergonomic neutral Graphic Interface"
+        },
+        {
+            "id": 25,
+            "first_name": "Banky",
+            "last_name": "Eastcourt",
+            "email": "beastcourto@netvibes.com",
+            "gender": "Agender",
+            "phrase": "Fundamental logistical encoding"
+        },
+        {
+            "id": 26,
+            "first_name": "Alfie",
+            "last_name": "Jaegar",
+            "email": "ajaegarp@yahoo.com",
+            "gender": "Female",
+            "phrase": "Function-based client-server circuit"
+        },
+        {
+            "id": 27,
+            "first_name": "Robb",
+            "last_name": "Maddinon",
+            "email": "rmaddinonq@reuters.com",
+            "gender": "Male",
+            "phrase": "User-centric secondary toolset"
+        },
+        {
+            "id": 28,
+            "first_name": "Randi",
+            "last_name": "Grund",
+            "email": "rgrundr@bigcartel.com",
+            "gender": "Male",
+            "phrase": "Devolved actuating portal"
+        },
+        {
+            "id": 29,
+            "first_name": "Rosabel",
+            "last_name": "Wardhough",
+            "email": "rwardhoughs@imageshack.us",
+            "gender": "Female",
+            "phrase": "Open-architected actuating algorithm"
+        },
+        {
+            "id": 30,
+            "first_name": "Marybeth",
+            "last_name": "Kornel",
+            "email": "mkornelt@china.com.cn",
+            "gender": "Female",
+            "phrase": "Implemented secondary productivity"
+        }
+    ]
+}

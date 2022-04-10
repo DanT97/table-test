@@ -17,14 +17,15 @@ export default {
   },
   data() {
     return {
-      clients: null,
+      clients: [],
+      currentClients: 4,
+      filteredClients: [],
     };
   },
   created() {
     TableService.getClients()
       .then((response) => {
         this.clients = response.data;
-        console.log(this.clients);
       })
       .catch((error) => {
         console.log(error);
